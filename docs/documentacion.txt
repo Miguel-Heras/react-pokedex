@@ -1,0 +1,5 @@
+1. Instalar Node JS, GIT Y VsCode
+2. Ir a esta pagina https://create-react-app.dev/docs/adding-typescript/
+3. Crear Carpeta del proyecto y abrir terminal dentro de este 
+4. Ejecutar npm ix create-react-app my-app --template typescript pero cambiar "my-app" por el nombre de su proyecto
+5. Unavez creada la carpeta ejecutar npm run start
