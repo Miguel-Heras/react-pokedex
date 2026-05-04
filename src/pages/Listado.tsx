@@ -3,7 +3,6 @@ import React, { useEffect, useState } from "react";
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 import { CardHeader, Button, Form } from "react-bootstrap"; // Agregué Button y Form
-import Figure from 'react-bootstrap/Figure';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { getPokemons } from "../controller/getpokemon";
